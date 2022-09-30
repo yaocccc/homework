@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "gitbook": "^2.6.9",
+    "gitbook": "3.2.3",
     "gitbook-plugin-alerts": "^0.2.0",
     "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
     "gitbook-plugin-anchors": "^0.7.1",
