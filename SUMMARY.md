@@ -8,3 +8,4 @@
 * [第五周作业](/homeworks/05.md)
 * [第六周作业](/homeworks/06.md)
 * [第七周作业](/homeworks/07.md)
+* [第八周作业](/homeworks/08.md)
