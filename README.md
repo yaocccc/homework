@@ -1,5 +1,5 @@
 ### 当前周作业
-* [第九周作业](/homeworks/09.md)
+* [第十周作业](/homeworks/10.md)
 
 ### 历史作业列表
 
@@ -12,3 +12,4 @@
 * [第七周作业](/homeworks/07.md)
 * [第八周作业](/homeworks/08.md)
 * [第九周作业](/homeworks/09.md)
+* [第十周作业](/homeworks/10.md)
