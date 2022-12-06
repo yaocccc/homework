@@ -11,4 +11,4 @@ jobs:
           host: ${{ secrets.HOST }}
           username: root
           password: ${{ secrets.PASS }}
-          command: cd /www/xx/homework && git pull
+          command: cd /www/homework && git pull
